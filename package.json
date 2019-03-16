@@ -1,0 +1,17 @@
+{
+  "name": "envasize",
+  "version": "0.0.1",
+  "description": "Supports the utilization on environment variables in your project - readme follows!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "envasize": "cli.js"
+  },
+  "author": "Evangelos Zotos",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^13.2.2"
+  }
+}
